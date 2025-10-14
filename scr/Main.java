@@ -5,9 +5,7 @@ public class Main {
 
         printThreeWords();
         compareNumbers();
-
-
-
+        test1();
 
         }
     public static void printThreeWords(){
@@ -25,5 +23,10 @@ public class Main {
             System.out.println("a<b");
         }
     }
+    public static void test1() {
+        System.out.println("Test1");
+    }
+
+
 
 }
