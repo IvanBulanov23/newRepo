@@ -4,18 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4d9eec0-fa99-43f9-9898-0eda89e36784" name="Changes" comment="git ignore">
-      <change afterPath="$PROJECT_DIR$/scr/scr2" afterDir="false" />
+    <list default="true" id="52b9e133-a1b2-433b-a929-ef756f050850" name="Changes" comment="commit test1">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/testRepo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop3" />
+        <entry key="$PROJECT_DIR$" value="test1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,37 +35,38 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="34O6xzv7xhfUNhXQi4yuI9MW2Ib" />
+  <component name="ProjectId" id="344GmEc6n2Vt6UocviJO4FX2bv2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Games/testRepo2"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e4d9eec0-fa99-43f9-9898-0eda89e36784" name="Changes" comment="" />
-      <created>1761072522114</created>
+      <changelist id="52b9e133-a1b2-433b-a929-ef756f050850" name="Changes" comment="" />
+      <created>1760465587633</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1761072522114</updated>
+      <updated>1760465587633</updated>
     </task>
-    <task id="LOCAL-00001" summary="git ignore">
+    <task id="LOCAL-00001" summary="commit test1">
       <option name="closed" value="true" />
-      <created>1761072761746</created>
+      <created>1760465836052</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1761072761746</updated>
+      <updated>1760465836052</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -64,14 +76,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="test1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+    <MESSAGE value="commit test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test1" />
   </component>
 </project>
