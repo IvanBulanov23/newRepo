@@ -1,0 +1,36 @@
+Index: scr/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package scr;\r\n\r\npublic class Main {\r\n    public static void main(String[] args) {\r\n        printThreeWords();\r\n        }\r\n    public static void printThreeWords(){\r\n        System.out.println(\"Orange\");\r\n        System.out.println(\"Banana\");\r\n        System.out.println(\"Apple\");\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/scr/Main.java b/scr/Main.java
+--- a/scr/Main.java	(revision 1b52ae8b761d1949bd3a81cc83546831878cd119)
++++ b/scr/Main.java	(date 1760469853575)
+@@ -2,12 +2,25 @@
+ 
+ public class Main {
+     public static void main(String[] args) {
++
+         printThreeWords();
++        compareNumbers();
++
+         }
+     public static void printThreeWords(){
+         System.out.println("Orange");
+         System.out.println("Banana");
+         System.out.println("Apple");
+     }
++    public static void compareNumbers() {
++        int a = 10;
++        int b = 10;
++        if (a>=b){
++            System.out.println("a>=b");
++        }
++        else {
++            System.out.println("a<b");
++        }
++    }
+ 
+ }
